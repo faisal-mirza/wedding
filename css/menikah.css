@@ -423,15 +423,24 @@ vertical-align: middle;
   background-color: #BC8887;
 }
 
+/* ::-webkit-scrollbar {
+  width: 8px;
+  background-color: #F4E2E2;
+} */
 ::-webkit-scrollbar {
   width: 8px;
   background-color: #F4E2E2;
 }
 
-::-webkit-scrollbar-thumb {
+/* ::-webkit-scrollbar-thumb {
   box-shadow: inset 0 0 6px #996E6D;
   -webkit-box-shadow: inset 0 0 6px #996E6D;
   background-color: #BC8887;
+} */
+::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 6px #996E6D;
+  -webkit-box-shadow: inset 0 0 6px #996E6D;
+  background-color: olivedrab;
 }
 
 body.preloader-site {
