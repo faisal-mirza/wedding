@@ -38,11 +38,12 @@ html {
 
 
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  /* background-image: url(https://picsum.photos/id/25/1920/1080); */
+  background-image: url("../image/floral-rev-3.png");
+  /* background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/floral-invite.png") no-repeat; */
   background-attachment: fixed;
   background-size: cover;
-  color: white;
+  color: olivedrab;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;
 }
@@ -55,12 +56,12 @@ html {
   transform: rotate(-2deg);
   font-size: 5rem;
   padding-bottom: 5px;
-  color: whitesmoke;
+  color: olivedrab;
 }
 
 .hero .subtitle {
   padding: 35px;
-  color: whitesmoke;
+  color: olivedrab;
   font-size: 1.3rem;
 }
 
@@ -131,12 +132,12 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #b2bb86;
+  background-color: #F4E2E2;
   padding: 80px 40px;
 }
 
 .main-content .section-darker {
-  background-color: #a6ae7a;
+  background-color: #EDD2D1;
   padding: 80px 40px;
 }
 
@@ -562,7 +563,7 @@ body.preloader-site {
 .tile {
   border-radius: 10px;
 }
-
+/* 
 
 .foto1 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-kang-emil.jpg");
@@ -614,7 +615,7 @@ body.preloader-site {
   min-height: 24rem;
 }
 
-
+ */
 
 .title-foto {
   font-size: 18pt;
