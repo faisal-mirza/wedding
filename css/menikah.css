@@ -133,12 +133,14 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #F4E2E2;
+  /* background-color: #F4E2E2; */
+  background-color: #eaebe3;
   padding: 80px 40px;
 }
 
 .main-content .section-darker {
-  background-color: #EDD2D1;
+  /* background-color: #EDD2D1; */
+  background-color: #e3e4d9;
   padding: 80px 40px;
 }
 
@@ -260,7 +262,8 @@ html {
 
 .main-content .section-light.contact button {
   width: 100%;
-  color: white;
+  /* color: white; */
+  color: #f1f2ec;
   height: 50px;
   font-size: 1.1rem;
   text-transform: uppercase;
@@ -301,7 +304,7 @@ html {
 
 .nama-lengkap {
   font-family: 'Rouge Script', sans-serif;
-  color: #996E6D;
+  color: #d2a09e;
   font-size: 3.5rem;
   letter-spacing: 0px;
   padding-bottom: 6px;
@@ -311,7 +314,7 @@ html {
 .ampersand {
 font-size: 5rem;
 font-family: 'Rouge Script', sans-serif;
-color: #996E6D;
+color: #d2a09e;
 line-height: 5rem;
 display: inline-block;
 vertical-align: middle;
@@ -352,7 +355,8 @@ vertical-align: middle;
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #c28285;
+  /* background: #c28285; */
+  background: #d2a09e;
   color: whitesmoke;    
 }
 
@@ -430,7 +434,7 @@ vertical-align: middle;
 } */
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #F4E2E2;
+  background-color: #f1f2ec;
 }
 
 /* ::-webkit-scrollbar-thumb {
@@ -467,7 +471,7 @@ body.preloader-site {
   width: 120px;
 }
 
-
+/* 
 .btn-whatsapp:hover {
   color: white;
   background-color: #59a543;
@@ -495,7 +499,7 @@ body.preloader-site {
   align-items: center;
   margin: 1rem;
 
-}
+} */
 
 
 .btn-cta:hover {
@@ -535,7 +539,7 @@ body.preloader-site {
 
 }
 
-.voucher-code {
+/* .voucher-code {
   height: 55px;
   max-width: 180px;
   border: 2px solid #26ade4;
@@ -555,7 +559,7 @@ body.preloader-site {
   margin: 0;
   vertical-align: middle;
   color: white;
-}
+} */
 
 .fa-copy {
   margin-right: 5px;
