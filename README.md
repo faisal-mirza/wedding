@@ -13,9 +13,7 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
-- Live version check at: https://sherly.dae.ng/
-- Or check demo at: https://sherly-daeng-menikah.netlify.app/
-- Check my web at: https://daengdoang.com :)
+
 
 # Fonts
 - Rouge Script (Google Font)
